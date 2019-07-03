@@ -1,0 +1,6 @@
+framework module ZLClearCache {
+  umbrella header "ZLClearCache-umbrella.h"
+
+  export *
+  module * { export * }
+}

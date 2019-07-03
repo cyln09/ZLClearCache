@@ -1,0 +1,16 @@
+PODS:
+  - ZLClearCache (0.1.0)
+
+DEPENDENCIES:
+  - ZLClearCache (from `../`)
+
+EXTERNAL SOURCES:
+  ZLClearCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZLClearCache: 938c5a546cf5c77736b8c726c541afb855cfb2a3
+
+PODFILE CHECKSUM: 7048639d36cf1d4c7b69027940f751f526e828b1
+
+COCOAPODS: 1.6.1
